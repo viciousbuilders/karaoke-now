@@ -27,7 +27,7 @@ export function VietBrosSignature({ className }: { className?: string }) {
         href="https://vietbrosinaus.com"
         className="font-semibold text-[var(--color-text-secondary)] underline underline-offset-2 transition-colors hover:text-[var(--color-text-primary)]"
       >
-        vietbrosinaus
+        viciousbuilders
       </a>
     </span>
   );
