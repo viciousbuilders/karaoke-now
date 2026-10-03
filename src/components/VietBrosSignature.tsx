@@ -24,7 +24,7 @@ export function VietBrosSignature({ className }: { className?: string }) {
       <span className="sr-only">love</span>
       <span>by</span>
       <a
-        href="https://vietbrosinaus.com"
+        href="https://viciousbuilders.com"
         className="font-semibold text-[var(--color-text-secondary)] underline underline-offset-2 transition-colors hover:text-[var(--color-text-primary)]"
       >
         viciousbuilders
